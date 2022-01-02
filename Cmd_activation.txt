@@ -1,0 +1,1 @@
+python main.py --input input\Input.mp4 --output output\TrafficDetected.mp4 --yolo config

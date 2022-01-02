@@ -1,0 +1,1 @@
+Weights size is too big. It can be downloaded from https://pjreddie.com/darknet/yolo/
